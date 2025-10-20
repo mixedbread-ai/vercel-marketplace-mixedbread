@@ -1,6 +1,6 @@
 # Vercel with Mixedbread
 
-A minimal template for building AI Search applications using Next.js, Vercel, and Mixedbread.
+A starter template for building AI Search applications using Next.js, Vercel, and Mixedbread.
 
 ## Getting Started
 
