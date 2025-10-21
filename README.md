@@ -6,7 +6,7 @@ A starter template for building AI Search applications using Next.js, Vercel, an
 
 Click the "Deploy to Vercel" button to clone this repo and create a new Vercel project:
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmixedbread-ai%2Fvercel-marketplace-mixedbread%2Ftree%2Fmain&project-name=my-vercel-mixedbread-app&repository-name=my-vercel-mixedbread-app)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmixedbread-ai%2Fvercel-marketplace-mixedbread&env=MIXEDBREAD_API_KEY&project-name=my-vercel-mixedbread-app&repository-name=my-vercel-mixedbread-app&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22mixedbread%22%2C%22productSlug%22%3A%22search%22%2C%22protocol%22%3A%22other%22%7D%5D)
 
 This will:
 
