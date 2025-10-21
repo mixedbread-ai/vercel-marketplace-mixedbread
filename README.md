@@ -6,7 +6,7 @@ A starter template for building AI Search applications using Next.js, Vercel, an
 
 Click the "Deploy to Vercel" button to clone this repo and create a new Vercel project:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmixedbread-ai%2Fvercel-marketplace-mixedbread&env=MIXEDBREAD_API_KEY&project-name=my-vercel-mixedbread-app&repository-name=my-vercel-mixedbread-app&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22mixedbread%22%2C%22productSlug%22%3A%22search%22%2C%22protocol%22%3A%22other%22%7D%5D)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmixedbread-ai%2Fvercel-marketplace-mixedbread&project-name=my-vercel-marketplace-app&repository-name=my-vercel-marketplace-app&redirect-url=https%3A%2F%2Fwww.mixedbread.com&developer-id=oac_iRJgsiA4yYT8aHOJIoLeoSWk&demo-title=Vercel%20with%20Mixedbread&demo-description=A%20full-stack%20React%20template%20using%20Next.js%2C%20Vercel%20and%20Mixedbread.%20Ship%20with%20AI%20search.&demo-url=https%3A%2F%2Fmy-vercel-mixedbread-app.vercel.app&demo-image=https%3A%2F%2Fmy-vercel-mixedbread-app.vercel.app%2Fhome.png&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22mixedbread%22%2C%22productSlug%22%3A%22search%22%2C%22protocol%22%3A%22other%22%7D%5D)
 
 This will:
 
