@@ -5,16 +5,16 @@ export async function getStores(): Promise<{
   stores: Store[];
   error?: string;
 }> {
-  if (!process.env.MIXEDBREAD_API_KEY) {
+  if (!process.env.MXBAI_API_KEY) {
     return {
       stores: [],
-      error: "No MIXEDBREAD_API_KEY environment variable",
+      error: "No MXBAI_API_KEY environment variable",
     };
   }
 
   try {
     const client = new Mixedbread({
-      apiKey: process.env.MIXEDBREAD_API_KEY,
+      apiKey: process.env.MXBAI_API_KEY,
     });
 
     const response = await client.stores.list();
