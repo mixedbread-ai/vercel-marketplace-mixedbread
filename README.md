@@ -55,7 +55,7 @@ cp .env.example .env
 Add the environment variables you copied from the Mixedbread product page:
 
 ```txt
-MIXEDBREAD_API_KEY=your-api-key-here
+MXBAI_API_KEY=your-api-key-here
 ```
 
 ### 5. Start the development server
